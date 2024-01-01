@@ -11,4 +11,6 @@
 <img src="https://github.com/SKDiko/Android-App/assets/93092941/fbcea06c-6673-4cdf-97bf-b4892580529b" width="300"><br>
 ### Application Page
 <img src="https://github.com/SKDiko/Android-App/assets/93092941/d1072c8c-4667-4da0-90be-3be10603eedc" width="300"><br>
+### Help Page
+<img src="https://github.com/SKDiko/Android-App/assets/93092941/b8a3b954-37a2-459b-8814-b00164b87be6" width="300"><br>
 
