@@ -7,6 +7,7 @@
 <img src="https://github.com/SKDiko/Android-App/assets/93092941/46b18f0e-1962-45a4-b261-729d4fa39196" width="300"><br>
 ### Course Requirements Page
 <img src="https://github.com/SKDiko/Android-App/assets/93092941/0adb3891-56d4-405c-a1bd-6c4f133640d1" width="300"><br>
-
+### Application Page
+<img src="https://github.com/SKDiko/Android-App/assets/93092941/d1072c8c-4667-4da0-90be-3be10603eedc" width="300"><br>
 
 
