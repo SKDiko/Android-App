@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Home Navigation icon -->
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Courses" />
+    <!-- Calculate Navigation icon -->
+    <item
+        android:id="@+id/nav_calculate"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="Calculate" />
+    <!-- Send Navigation icon -->
+    <item
+        android:id="@+id/nav_send"
+        android:icon="@drawable/ic_baseline_send_24"
+        android:title="Apply" />
+    <!-- Help Navigation icon -->
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="Help" />
+</menu>
