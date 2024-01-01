@@ -1,7 +1,7 @@
 # Android App: WSU Application Services
 <b>Author:</b> Sonwabile Diko<br>
 <b>Date:</b> 11 November 2020<br>
-<b>Diploma Main Project<b>: Walter Sisulu University android app to help students apply at Walter Sisulu University.<br>
+<b>Diploma Main Project</b>: Walter Sisulu University android app to help students apply at Walter Sisulu University.<br>
 ### APP Logo
 <img src="https://github.com/SKDiko/Android-App/assets/93092941/7fda5ae8-ab98-4967-9789-a2f45f027134"><br>
 ### Start Page
